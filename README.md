@@ -6,10 +6,10 @@ User story for this challenge assignment is to refractor the code for the webpag
 
 Changes made for the challenge:
 1. Added title to the page
-2. Changed to <header> semantic element
+2. Changed to <header> element
 3. Fixed search-engine-optimization link by adding id to the location
 4. Changed some <div> elements to <section> and <article> 
-5. Changed from <div> to <footer>\
+5. Changed from <div> to <footer>
 6. Added title to hero <section> which acts an alt for other images
 7. Added alt descriptions to images for accessiablilty 
 8. Consolidated to classes to content-offers and benefit-offers to consolidate css
