@@ -15,6 +15,7 @@ Changes made for the challenge:
 8. Consolidated to classes to content-offers and benefit-offers to consolidate css
 9. Consolidated content-offers and benefit-offers css down to one as it cleans up items
 10. Cleaned up a couple items such as </img> to /> to end the element
+11. Changed from <div> to <nav> as better semantic text
 
 
 https://ds1242.github.io/Horiseon_challenge_1/
